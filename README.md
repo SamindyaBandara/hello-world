@@ -1,2 +1,4 @@
 # hello-world
-Just a repository
+
+Hi,
+I'm Sam.I'm an undergraduate
